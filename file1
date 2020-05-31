@@ -1,2 +1,6 @@
 commit1
+<<<<<<< HEAD
 git2 's commit from master
+=======
+git commit
+>>>>>>> a428e8cb0ea851dcf156771f43a186de45369fb6
